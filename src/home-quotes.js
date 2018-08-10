@@ -22,26 +22,7 @@ class MyView1 extends PolymerElement {
 
           padding: 10px;
         }
-        :root {
-          --primary-color: #4285f4;
-        }
-        a, paper-button {
-          font-weight: bold;
-        }
-        a {
-          color: var(--primary-color);
-        }
-        paper-button {
-          color: #fff;
-        }
-        paper-button.primary {
-          background: var(--primary-color);
-        }
-        blockquote {
-          border-left: 4px solid #eee;
-          margin-left: 4px;
-          padding-left: 20px;
-        }
+        
       </style>
         
        <iron-ajax

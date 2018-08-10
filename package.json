@@ -27,7 +27,8 @@
     "@polymer/paper-icon-button": "^3.0.0-pre.15",
     "@polymer/paper-input": "^3.0.0-pre.20",
     "@polymer/polymer": "^3.0.0",
-    "@webcomponents/webcomponentsjs": "^2.0.0"
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "auth0-lock": "^11.8.1"
   },
   "devDependencies": {
     "polymer-cli": "^1.7.1",
